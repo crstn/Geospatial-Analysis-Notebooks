@@ -1,0 +1,11 @@
+name: Explore
+channels:
+  - defaults
+dependencies:
+  - python=3.7.3=h359304d_0
+  - notebook=5.7.8=py37_0
+  - matplotlib=3.0.3=py37h54f8f79_0
+  - numpy=1.16.2=py37hacdab7b_0
+  - pandas=0.24.2=py37h0a44026_0
+  - scipy=1.2.1=py37h1410ff5_0
+  - seaborn=0.9.0=py37_0
