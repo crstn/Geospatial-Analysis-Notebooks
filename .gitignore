@@ -5,6 +5,6 @@ kde.pdf
 taxi_accidents.csv
 Conflicts.ipynb
 GHS_BUILT_*
-Africa.tif
+*.tif
 conflicts_pairplot.pdf
 .ipynb_checkpoints/Raster-based geospatial analysis-checkpoint.ipynb
