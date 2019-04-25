@@ -1,5 +1,4 @@
 
-.ipynb_checkpoints/Exploratory Data Analysis-checkpoint.ipynb
 sample.pdf
 kde.pdf
 taxi_accidents.csv
@@ -7,4 +6,5 @@ Conflicts.ipynb
 GHS_BUILT_*
 *.tif
 conflicts_pairplot.pdf
-.ipynb_checkpoints/Raster-based geospatial analysis-checkpoint.ipynb
+.ipynb_checkpoints/*
+gds_ufmg19-master/*
