@@ -9,3 +9,6 @@ conflicts_pairplot.pdf
 .ipynb_checkpoints/*
 gds_ufmg19-master/*
 ne_110m_admin_0_countries/*
+Data2/*
+.DS_Store
+hello.txt
