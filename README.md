@@ -18,3 +18,10 @@ Optional, but recommended:
 
 1. Read [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) if you are new to Markdown.
 1. Sign up for the [GitHub Student Developer Pack](https://education.github.com/pack) to get free access to some of the paid features on GitHub and some other tools/platforms.
+
+## Setting up the course environment
+
+The file [geoanalysis.yml](https://github.com/crstn/Geospatial-Analysis-Notebooks/blob/master/geoanalysis.yml) contains a specification of a virtual environment with all the Python modules needed for this course. To get up and running:
+
+1. Create a new environment from the file, either by running `conda env create -f geoanalysis.yml` on the command line, or by [importing it in Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#importing-an-environment). This is going to take a while, we are now downloading a bunch of modules and all of their dependencies.
+2. Activate the environment by typing `conda activate geoanalysis`, then `jupyter notebook`. Alternatively, in [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#using-an-environment), click the arrow button next to geoanalysis, then choose Jupyter Notebook.
