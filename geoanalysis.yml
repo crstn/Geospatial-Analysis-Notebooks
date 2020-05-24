@@ -14,3 +14,6 @@ dependencies:
   - rasterio=1.1
   - bokeh=2.0
   - scikit-image=0.17
+  - contextily=1.0
+  - pysal=2.2
+  
