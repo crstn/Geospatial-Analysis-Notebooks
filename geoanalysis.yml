@@ -11,3 +11,9 @@ dependencies:
   - shapely=1.7
   - geopandas=0.7
   - pycrs=1.0
+  - rasterio=1.1
+  - bokeh=2.0
+  - scikit-image=0.17
+  - contextily=1.0
+  - pysal=2.2
+  - osmnx=0.12
