@@ -133,5 +133,7 @@ plt.figure(figsize=(14, 14))
 imgplot = plt.imshow(lcd, norm=LogNorm(), cmap='hot')
 ```
 
+![plot](https://raw.githubusercontent.com/crstn/Geospatial-Analysis-Notebooks/master/cost-africa.png)
+
 ¯\\\_(ツ)\_/¯
 
