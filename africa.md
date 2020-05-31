@@ -98,7 +98,7 @@ Output:
  ...
 ```
 
-So that's the source location for our cost distance. Now we need the actual costs – in our previous example, we took elevation. Since we only care about distance here, we will just assign each cell the value one, using [np.ones_like](https://numpy.org/doc/stable/reference/generated/numpy.ones_like.html): 
+So those are the *source* locations for our cost distance. Now we need the actual costs – in our previous example, we took elevation. Since we only care about distance here, we will just assign each cell the value one, using [np.ones_like](https://numpy.org/doc/stable/reference/generated/numpy.ones_like.html): 
 
 ```python
 fake_cost = np.ones_like(pop)
