@@ -30,4 +30,4 @@ The file [geoanalysis.yml](https://github.com/crstn/Geospatial-Analysis-Notebook
 
 ## Going through the course
 
-Once you are set up, you can go through notebooks 1 through 6. Each notebook contains a couple of references to readings and external documentation and should take you approximately half a day if you do it properly (depending on your previous skills, of course). Some of the notebooks contain slightly more challenging excercises; the solutions for those are also included in the repository.
+Once you are set up, you can go through notebooks 1 through 6. Each notebook contains a couple of references to readings and external documentation and should take you approximately half a day if you do it properly (depending on your previous skills, of course). Some of the notebooks contain slightly more challenging excercises; template solutions for the [accidents](https://github.com/crstn/Geospatial-Analysis-Notebooks/blob/master/accidents.md) and [Africa](https://github.com/crstn/Geospatial-Analysis-Notebooks/blob/master/africa.md) exercises are also included in the repository.
