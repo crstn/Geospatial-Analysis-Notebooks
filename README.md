@@ -2,6 +2,8 @@
 
 Jupyter Notebooks for the PhD Course on [Python for Geospatial Analysis](https://phdcourses.dk/Course/73296) at Aalborg University Copenhagen, Spring 2020.
 
+> Preface: If you wonder whether it is worth to learn Python for geospatial analysis, I'd recommend spending half an hour on the episode on [Geospatial Python](https://mapscaping.com/blogs/the-mapscaping-podcast/geospatial-python) of the Mapscaping podcast.
+
 Please [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) this repo so you have your own copy to work on during the course. We may also post some updates during the course, so forking is a better option than simply downloading it. 
 
 The materials provided here assume basic knowledge of Python, so please make sure that you have gone through the following preparation steps before starting with the course:
@@ -25,3 +27,7 @@ The file [geoanalysis.yml](https://github.com/crstn/Geospatial-Analysis-Notebook
 
 1. Create a new environment from the file, either by running `conda env create -f geoanalysis.yml` on the command line, or by [importing it in Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#importing-an-environment). This is going to take a while, we are now downloading a bunch of modules and all of their dependencies.
 2. Activate the environment by typing `conda activate geoanalysis`, then `jupyter notebook`. Alternatively, in [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#using-an-environment), click the arrow button next to geoanalysis, then choose Jupyter Notebook.
+
+## Going through the course
+
+Once you are set up, you can go through notebooks 1 through 6. Each notebook contains a couple of references to readings and external documentation and should take you approximately half a day if you do it properly (depending on your previous skills, of course). Some of the notebooks contain slightly more challenging excercises; the solutions for those are also included in the repository.
